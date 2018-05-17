@@ -1,0 +1,29 @@
+[33mcommit 7a0cc955e1768d43630fd8c91b33809d84a86eb0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: webdev58 <38678588+webdev58@users.noreply.github.com>
+Date:   Thu May 17 18:07:59 2018 -0400
+
+    Finish markup and style elements
+
+[33mcommit e4a261d45175c144ec2ed60d102293295907fd62[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: webdev58 <38678588+webdev58@users.noreply.github.com>
+Date:   Sat May 12 14:07:57 2018 -0400
+
+    Fix header image
+
+[33mcommit dcdeb5fbcb74f440032f0079005052e52796f00a[m
+Author: webdev58 <38678588+webdev58@users.noreply.github.com>
+Date:   Sat May 12 13:22:35 2018 -0400
+
+    Make footer links
+
+[33mcommit d40740a4e001c25574a8694e88677ec18e882ae5[m
+Author: webdev58 <38678588+webdev58@users.noreply.github.com>
+Date:   Sat May 12 13:04:39 2018 -0400
+
+    Mark up content
+
+[33mcommit 347a26e1b438887966297c21d3190898b899e719[m
+Author: webdev58 <38678588+webdev58@users.noreply.github.com>
+Date:   Sat May 12 12:40:52 2018 -0400
+
+    Add boilerplate code, link stylesheet, start content
